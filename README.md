@@ -50,8 +50,8 @@ Product Infrastructure    →  Systems that scale and monetize
 | Project | Description | Live |
 |---|---|---|
 | **Earnstak** | Creator commerce platform — sell digital products on your own website with deep analytics, no code | [earnstak.com](https://earnstak.com) |
-| **TMoney** | Telegram bot for monetized group/channel access | — |
-| **IGiftways** | Structured giveaway platform with payment logic | — |
+| **TMoney** | Telegram bot for monetized group/channel access | [earnstak.com/tmoney.com](https://earnstak.com/tmoney) |
+| **IGiftways** | Structured giveaway platform with payment logic | [Igiftways.com](https://igiftways.com) |
 
 ---
 
@@ -95,9 +95,9 @@ Product Infrastructure    →  Systems that scale and monetize
 
 <div align="center">
 
-![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacWinner18&show_icons=true&theme=chartreuse-dark&bg_color=041b22&title_color=00d4a0&icon_color=00d4a0&text_color=ffffff&border_color=00d4a0&hide_border=false&rank_icon=github)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IsaacWinner18&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacWinner18&layout=compact&theme=chartreuse-dark&bg_color=041b22&title_color=00d4a0&text_color=ffffff&border_color=00d4a0)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsaacWinner18&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IsaacWinner18&theme=dark&background=041b22&ring=00d4a0&fire=00d4a0&currStreakLabel=00d4a0&border=00d4a0)](https://git.io/streak-stats)
 
