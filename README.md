@@ -50,7 +50,7 @@ Product Infrastructure    →  Systems that scale and monetize
 | Project | Description | Live |
 |---|---|---|
 | **Earnstak** | Creator commerce platform — sell digital products on your own website with deep analytics, no code | [earnstak.com](https://earnstak.com) |
-| **TMoney** | Telegram bot for monetized group/channel access | [earnstak.com/tmoney.com](https://earnstak.com/tmoney) |
+| **TMoney** | Telegram bot for monetized group/channel access | [earnstak.com/tmoney](https://earnstak.com/tmoney) |
 | **IGiftways** | Structured giveaway platform with payment logic | [Igiftways.com](https://igiftways.com) |
 
 ---
