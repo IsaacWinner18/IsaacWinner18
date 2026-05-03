@@ -41,19 +41,14 @@ I do TON.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/-Cloudflare%20R2-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/-Telegram%20Bot%20API-26A5E4?style=flat&logo=telegram&logoColor=white)
 ![TON Blockchain](https://img.shields.io/badge/-TON%20Blockchain-0098EA?style=flat&logo=ton&logoColor=white)
-![Paystack](https://img.shields.io/badge/-Paystack-00C3F7?style=flat&logo=paystack&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
